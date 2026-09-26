@@ -1,81 +1,235 @@
-SCYLLA Bot — Privacy Policy
-Last Updated: 26 September 2026
-This Privacy Policy explains how the SCYLLA Discord Bot ("SCYLLA", "the Bot", "we", "us", or "our") accesses, uses, stores, and protects information when you interact with the Bot.
-SCYLLA is designed primarily for the SCYLLA Roblox Emergency Hospital community.
-SCYLLA is an independent project and is not affiliated with, endorsed by, or sponsored by Discord Inc. or Roblox Corporation.
-1. Information SCYLLA May Access
-When you interact with SCYLLA, the Bot may access information provided through Discord's API, including:
+# 🔒 SCYLLA Bot — Privacy Policy
+
+**Last Updated:** 26 September 2026
+
+Your privacy is important to us.
+
+This Privacy Policy explains how the **SCYLLA Discord Bot** ("SCYLLA", "the Bot", "we", "us", or "our") accesses, uses, stores, and handles information when you interact with the Bot.
+
+SCYLLA is designed primarily for the **SCYLLA Roblox Emergency Hospital community**.
+
+SCYLLA is an independent community project and is **not affiliated with, endorsed by, or sponsored by Discord Inc. or Roblox Corporation.**
+
+---
+
+## 1. 📋 Information SCYLLA May Access
+
+When you interact with SCYLLA, the Bot may access information made available through Discord.
+
+This may include:
+
 - Discord user ID
-- Discord username and display name
-- Discord profile/avatar information
+- Discord username
+- Display name
+- Profile/avatar information
 - Server ID
 - Channel ID
 - Discord roles
-- Information you voluntarily submit through Bot commands
-- Command and interaction information
-Discord notes that bots can have access to baseline information such as usernames, avatars, nicknames and server roles. Discord Support
-2. Information You Submit
+- Bot command interactions
+- Information you voluntarily submit to the Bot
+
+SCYLLA only accesses information necessary to provide its features and operate within the community.
+
+---
+
+## 2. 📝 Information You Submit
+
 Some SCYLLA features allow you to voluntarily provide information.
-For example, this may include:
-- Suggestions
-- Player or staff reports
-- Support ticket contents
-- Roblox usernames
-- Other information entered into SCYLLA commands
-This information is used only to provide the requested Bot functionality and administer the SCYLLA community.
-3. Roblox Information
-When using features such as /roblox, SCYLLA may retrieve publicly available information from Roblox associated with the username provided.
-This may include:
+
+This may include information submitted through:
+
+- 💡 Suggestions
+- 🚨 Reports
+- 🎫 Support tickets
+- 🎮 Roblox profile lookups
+- 🛠️ Other Bot commands
+
+Information you submit may be displayed to authorised SCYLLA staff where necessary to provide the requested feature.
+
+Please avoid submitting sensitive personal information through the Bot.
+
+---
+
+## 3. 🎮 Roblox Information
+
+When you use Roblox-related features such as `/roblox`, the username you provide may be used to retrieve publicly available information from Roblox.
+
+This information may include:
+
 - Roblox username
 - Display name
 - Roblox user ID
 - Avatar
 - Account creation information
-- Roblox group membership
-- Group role/rank
-SCYLLA does not request or store Roblox passwords.
-4. How Information Is Used
-Information accessed by SCYLLA may be used to:
+- Group membership
+- SCYLLA group role or rank
+
+SCYLLA does **not** request or collect your Roblox password.
+
+Roblox information is obtained from Roblox services and APIs and may change depending on information available through those services.
+
+---
+
+## 4. ⚙️ How Information Is Used
+
+Information accessed or submitted through SCYLLA may be used to:
+
 - Process Bot commands
 - Operate support tickets
-- Process reports and suggestions
+- Process reports
+- Process community suggestions
 - Display Roblox profile information
 - Determine Roblox group membership or rank
-- Manage Discord permissions and Bot functionality
-- Maintain security and prevent abuse
-- Troubleshoot and improve the Bot
-SCYLLA does not use Discord API data for advertising or sell Discord API data.
-Discord's Developer Policy restricts developers from using API data outside the functionality necessary for their application and prohibits selling or disclosing it to advertising/data-broker services. Discord Support
-5. Data Storage
-SCYLLA may temporarily or persistently store information necessary to provide its features.
-Information that no longer needs to be retained for the Bot's functionality may be deleted.
-Messages created through features such as reports, suggestions and tickets may also remain within the SCYLLA Discord server until they are deleted by authorised server staff or through the relevant Bot functionality.
-6. Sharing of Information
-SCYLLA does not sell personal information.
-Information may be visible to authorised SCYLLA staff where necessary to operate features such as reports, support tickets and server administration.
-Information may also be processed through services required to operate the Bot, including Discord and Roblox.
-Information may be disclosed where required by applicable law.
-7. Data Security
-Reasonable measures are taken to protect information processed or stored by SCYLLA from unauthorised access, alteration, disclosure or destruction.
-However, no online service can guarantee absolute security.
-8. Data Retention and Deletion
-Information is retained only for as long as reasonably necessary to provide SCYLLA's functionality, resolve reports or support requests, maintain security, or comply with applicable requirements.
-Discord's Developer Terms require developers to delete API data when retaining it is no longer necessary for the application's functionality or when an applicable user requests deletion, subject to applicable legal requirements. Discord Support
-Users may request deletion of information associated with them by contacting the SCYLLA development team through the official SCYLLA Discord server.
-Where applicable, the development team will identify and delete information associated with the requesting user.
-9. Children's Privacy
-SCYLLA is not intended to circumvent Discord's minimum-age requirements.
-Users must meet Discord's applicable minimum-age requirements to use Discord and interact with SCYLLA.
-10. Third-Party Services
-SCYLLA relies on third-party services including:
-Discord — provides the platform and Discord API used by the Bot.
-Roblox — may provide publicly available Roblox account and group information used by Roblox-related commands.
-Those services operate under their own privacy policies and terms.
-11. Changes to This Privacy Policy
-This Privacy Policy may be updated when SCYLLA's functionality or data-handling practices change.
-The Last Updated date at the top of this document will indicate when the policy was most recently revised.
-12. Contact
-For privacy questions, data requests, or requests to delete information associated with you, contact the SCYLLA development team through the official SCYLLA Discord server.
-SCYLLA
-Roblox Emergency Hospital Development Community
-© 2026 SCYLLA
+- Manage Discord permissions
+- Provide server-management functionality
+- Prevent abuse or misuse
+- Maintain the security of the Bot
+- Troubleshoot technical problems
+- Improve SCYLLA's functionality
+
+SCYLLA does **not sell personal information**.
+
+SCYLLA does **not use your information for advertising**.
+
+---
+
+## 5. 💾 Data Storage
+
+SCYLLA may temporarily or persistently store information where necessary to provide its functionality.
+
+Some information may also exist as messages or channels within the SCYLLA Discord server.
+
+For example:
+
+- Suggestions may remain in the suggestions channel.
+- Reports may remain accessible to authorised staff.
+- Support ticket messages may remain while a ticket is active.
+- Discord IDs may be used to associate interactions with the correct user.
+
+SCYLLA does not intentionally retain information longer than reasonably necessary for its intended purpose.
+
+---
+
+## 6. 👥 Who Can Access Information
+
+Information submitted through SCYLLA may be accessible to authorised members of the **SCYLLA staff or development team** where necessary.
+
+For example, authorised staff may need access to:
+
+- Reports
+- Support tickets
+- Moderation information
+- Suggestions
+- Technical information required to investigate Bot problems
+
+Access should be limited to people who require the information for legitimate community, moderation, support, or development purposes.
+
+---
+
+## 7. 🔗 Third-Party Services
+
+SCYLLA relies on third-party services to provide some of its functionality.
+
+These services may include:
+
+### 💬 Discord
+
+Discord provides the platform on which SCYLLA operates and supplies information necessary for Discord Bot functionality.
+
+### 🎮 Roblox
+
+Roblox may provide publicly available account and group information when Roblox-related SCYLLA commands are used.
+
+These services operate under their own privacy policies and terms.
+
+SCYLLA is not responsible for the privacy practices of third-party services.
+
+---
+
+## 8. 🛡️ Data Security
+
+Reasonable measures are taken to protect information processed or stored by SCYLLA against:
+
+- Unauthorised access
+- Unauthorised disclosure
+- Alteration
+- Loss
+- Misuse
+
+However, no online service or method of electronic storage can guarantee absolute security.
+
+---
+
+## 9. 🗑️ Data Retention & Deletion
+
+Information is retained only for as long as reasonably necessary to:
+
+- Provide SCYLLA's functionality
+- Handle reports or support requests
+- Maintain community security
+- Prevent abuse
+- Resolve technical issues
+- Meet applicable legal requirements
+
+You may request deletion of information associated with you by contacting the **SCYLLA Development Team** through the official SCYLLA Discord server.
+
+Where applicable, we will identify and remove information associated with the request when it is no longer necessary to retain it.
+
+Information controlled directly by Discord or Roblox may need to be managed through those respective services.
+
+---
+
+## 10. 👶 Children's Privacy
+
+SCYLLA is not intended to circumvent the minimum-age requirements established by Discord or other services used by the Bot.
+
+Users must meet Discord's applicable age requirements to use Discord and interact with SCYLLA.
+
+SCYLLA does not knowingly use the Bot to intentionally collect personal information from children contrary to applicable requirements.
+
+---
+
+## 11. 🚫 Selling & Advertising
+
+SCYLLA does **not**:
+
+- Sell personal information
+- Sell Discord user data
+- Sell Roblox user data
+- Provide user information to data brokers
+- Use personal information for targeted advertising
+
+Information is used only where reasonably necessary to operate and maintain SCYLLA and its community features.
+
+---
+
+## 12. 🔄 Changes to This Privacy Policy
+
+This Privacy Policy may be updated as SCYLLA develops, its features change, or its data-handling practices change.
+
+The **Last Updated** date at the top of this page will indicate when the policy was most recently revised.
+
+We recommend reviewing this page periodically for changes.
+
+---
+
+## 13. 📩 Contact & Data Requests
+
+For:
+
+- Privacy questions
+- Questions about information SCYLLA processes
+- Data deletion requests
+- Data-related concerns
+
+Please contact the **SCYLLA Development Team** through the official SCYLLA Discord server.
+
+---
+
+### 🏥 SCYLLA
+
+**Roblox Emergency Hospital Development Community**
+
+*Your privacy matters to us.*
+
+© 2026 SCYLLA. All rights reserved.
