@@ -1,54 +1,184 @@
-SCYLLA Bot — Terms of Service
-Last Updated: 26 September 2026
-These Terms of Service ("Terms") govern your use of the SCYLLA Discord Bot ("SCYLLA", "the Bot", "we", "us", or "our"). By using or interacting with SCYLLA, you agree to these Terms.
-1. About SCYLLA
-SCYLLA is a Discord bot designed primarily for the SCYLLA Roblox Emergency Hospital community. The Bot provides features including server utilities, suggestions, reports, support tickets, Roblox profile lookups, announcements, and other community-management functionality.
-SCYLLA is an independent community project and is not affiliated with, endorsed by, or sponsored by Discord Inc. or Roblox Corporation.
-2. Eligibility
-You must comply with the age requirements and other eligibility requirements of Discord and Roblox when using services associated with SCYLLA.
-By using the Bot, you confirm that your use complies with applicable Discord and Roblox terms and policies.
-3. Acceptable Use
-You may not use SCYLLA to:
+# 🏥 SCYLLA Bot — Terms of Service
+
+**Last Updated:** 26 September 2026
+
+Welcome to **SCYLLA**.
+
+These Terms of Service ("Terms") govern your use of the **SCYLLA Discord Bot** ("SCYLLA", "the Bot", "we", "us", or "our").
+
+By using or interacting with SCYLLA, you agree to these Terms.
+
+---
+
+## 1. 🏥 About SCYLLA
+
+SCYLLA is a Discord bot designed primarily for the **SCYLLA Roblox Emergency Hospital community**.
+
+The Bot provides community and server-management features including:
+
+- 📢 Announcements
+- 💡 Suggestions
+- 🚨 Reports
+- 🎫 Support tickets
+- 🎮 Roblox profile lookups
+- 🛠️ Server utilities
+
+SCYLLA is an independent community project and is **not affiliated with, endorsed by, or sponsored by Discord Inc. or Roblox Corporation.**
+
+---
+
+## 2. 👤 Eligibility
+
+You must comply with the applicable age and eligibility requirements of **Discord** and **Roblox** when using SCYLLA.
+
+By using the Bot, you confirm that your use complies with applicable Discord and Roblox terms, policies, and community standards.
+
+---
+
+## 3. ✅ Acceptable Use
+
+When using SCYLLA, you agree not to:
+
 - Harass, threaten, abuse, or impersonate another person.
 - Submit deliberately false or malicious reports.
 - Spam commands, tickets, reports, or suggestions.
 - Attempt to exploit, disrupt, reverse engineer, or interfere with the Bot.
-- Attempt to gain unauthorised access to the Bot, its hosting environment, accounts, or stored information.
-- Use the Bot for unlawful purposes.
+- Attempt to gain unauthorised access to the Bot, its accounts, hosting environment, or stored information.
+- Use the Bot for unlawful or malicious purposes.
 - Circumvent restrictions or permissions implemented by SCYLLA or Discord.
-Access may be restricted or removed if the Bot is abused.
-4. Roblox Features
-SCYLLA may retrieve publicly available Roblox information, such as usernames, user IDs, display names, avatars, account information, group membership, and group ranks.
-Information obtained from Roblox is dependent on Roblox's services and APIs. SCYLLA does not guarantee that this information will always be available, accurate, or up to date.
-Using SCYLLA does not create any affiliation between SCYLLA and Roblox Corporation.
-5. Discord Features
-Some features require information supplied by Discord, including Discord user IDs, server IDs, channel IDs, role IDs, usernames, and information associated with interactions with the Bot.
-The way SCYLLA handles information is further explained in its Privacy Policy.
-6. Availability
-SCYLLA is provided on an "as is" and "as available" basis.
+
+Access to SCYLLA may be restricted or removed where the Bot is being abused.
+
+---
+
+## 4. 🎮 Roblox Features
+
+SCYLLA may retrieve publicly available Roblox information when you use Roblox-related features.
+
+This information may include:
+
+- Roblox username
+- Display name
+- User ID
+- Avatar
+- Account creation information
+- Group membership
+- SCYLLA group role or rank
+
+Information obtained from Roblox depends on Roblox's services and APIs.
+
+SCYLLA does not guarantee that information supplied by Roblox will always be available, accurate, or up to date.
+
+SCYLLA does **not** request your Roblox password.
+
+---
+
+## 5. 💬 Discord Features
+
+SCYLLA may use information supplied through Discord to provide its functionality.
+
+This may include:
+
+- Discord user IDs
+- Usernames and display names
+- Server IDs
+- Channel IDs
+- Role IDs
+- Command interactions
+- Information voluntarily submitted to the Bot
+
+How this information is handled is explained further in the **SCYLLA Privacy Policy**.
+
+---
+
+## 6. ⚡ Availability
+
+SCYLLA is provided on an **"as is"** and **"as available"** basis.
+
 We do not guarantee that the Bot will:
+
 - Be available at all times.
-- Operate without errors.
-- Retain every message, ticket, report, or other submission.
-- Continue providing any particular feature indefinitely.
-Features may be added, changed, suspended, or removed at any time.
-7. Third-Party Services
-SCYLLA may interact with third-party services, including Discord and Roblox.
-Your use of those services remains subject to their respective terms and policies. We are not responsible for outages, changes, restrictions, or actions caused by third-party services.
-8. User-Submitted Content
-When you submit reports, suggestions, tickets, or other content through SCYLLA, you remain responsible for what you submit.
-You must not intentionally submit illegal, harmful, abusive, misleading, or otherwise inappropriate content.
-Information submitted through moderation or support features may be made available to authorised SCYLLA staff where necessary to process the submission.
-9. Suspension and Termination
-Access to SCYLLA may be restricted or terminated where reasonably necessary, including in cases of abuse, attempted exploitation, violation of these Terms, or violation of applicable Discord server rules.
-10. Limitation of Liability
-To the extent permitted by applicable law, SCYLLA and its operators will not be responsible for indirect or consequential losses resulting from use of, or inability to use, the Bot.
+- Operate without errors or interruptions.
+- Retain every ticket, report, suggestion, or other submission.
+- Continue providing every existing feature indefinitely.
+
+Features may be **added, changed, suspended, or removed** as SCYLLA develops.
+
+---
+
+## 7. 🔗 Third-Party Services
+
+SCYLLA may interact with third-party services including:
+
+- **Discord**
+- **Roblox**
+
+Your use of these services remains subject to their respective terms and policies.
+
+SCYLLA is not responsible for outages, API changes, restrictions, or other actions caused by third-party services.
+
+---
+
+## 8. 📝 User-Submitted Content
+
+You remain responsible for information and content you submit through SCYLLA.
+
+This includes content submitted through:
+
+- Reports
+- Suggestions
+- Support tickets
+- Bot commands
+
+You must not intentionally submit illegal, harmful, abusive, malicious, or deliberately misleading content.
+
+Information submitted through moderation or support features may be accessible to authorised **SCYLLA staff** where necessary to process your submission.
+
+---
+
+## 9. ⛔ Suspension & Termination
+
+Access to SCYLLA may be restricted or terminated where reasonably necessary.
+
+This may include situations involving:
+
+- Abuse of Bot functionality
+- Spam
+- Attempted exploitation
+- Security threats
+- Violation of these Terms
+- Violation of applicable SCYLLA Discord server rules
+
+---
+
+## 10. ⚖️ Limitation of Liability
+
+To the extent permitted by applicable law, SCYLLA and its operators will not be responsible for indirect or consequential losses resulting from the use of, or inability to use, the Bot.
+
 Nothing in these Terms excludes or limits liability where doing so would be unlawful.
-11. Changes to These Terms
-These Terms may be updated as SCYLLA develops or its functionality changes.
-The "Last Updated" date at the top of this page will indicate when the Terms were most recently revised. Continued use of the Bot after an update constitutes acceptance of the revised Terms where permitted by applicable law.
-12. Contact
-Questions about these Terms can be directed to the SCYLLA development team through the official SCYLLA Discord server.
-SCYLLA
-Roblox Emergency Hospital Development Community
-© 2026 SCYLLA
+
+---
+
+## 11. 🔄 Changes to These Terms
+
+These Terms may be updated as SCYLLA develops, its functionality changes, or its legal and operational requirements change.
+
+The **Last Updated** date at the top of this page will show when these Terms were most recently revised.
+
+Continued use of SCYLLA following an update constitutes acceptance of the revised Terms where permitted by applicable law.
+
+---
+
+## 12. 📩 Contact
+
+If you have questions regarding these Terms of Service, please contact the **SCYLLA Development Team** through the official SCYLLA Discord server.
+
+---
+
+### 🏥 SCYLLA
+
+**Roblox Emergency Hospital Development Community**
+
+*Built for the SCYLLA community.*
+
+© 2026 SCYLLA. All rights reserved.
